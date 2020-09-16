@@ -8,27 +8,47 @@
 
 
 SPI interface Pinout Connections
+
 Lora SX1272 Semtech <---> ESP32s
+
 3.3 V <---> 3.3 V 
+
 GND <---> GND
+
 NSS <---> D15
+
 DIO0 <---> D2
+
 DIO1 <---> D4
+
 SCK <---> D18
+
 MISO <---> D19
+
 RESET <---> D22
+
 MOSI <---> D23
 
 Lora SX1272 Semtech <---> Arduino
+
 3.3 V <---> 3.3 V 
+
 GND <---> GND
+
 SCK <---> 13
+
 MISO <---> 12
+
 MOSI <---> 11
+
 NSS <---> 9
+
 RESET <---> 5
+
 DIO0 <---> 4
+
 DIO1 <---> 6
+
 
 
 
