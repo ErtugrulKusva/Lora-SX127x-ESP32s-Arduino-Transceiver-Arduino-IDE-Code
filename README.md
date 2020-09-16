@@ -4,7 +4,7 @@
 
 *Also, you can use these codes for many other microcontrollers such as Teensy, STM32.
 
-*I wrote these arduino codes with using universal wireless communication library for Arduino (https://github.com/jgromes/RadioLib).
+*I wrote these arduino codes with using universal wireless communication library for Arduino You can download from this link:(https://github.com/jgromes/RadioLib).Plus, I added the library as a zip file in this project.
 
 
 SPI interface Pinout Connections
