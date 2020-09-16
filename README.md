@@ -7,7 +7,7 @@
 *I wrote these arduino codes with using universal wireless communication library for Arduino (https://github.com/jgromes/RadioLib).
 
 
-Pinout Connections
+SPI interface Pinout Connections
 Lora SX1272 Semtech <---> ESP32s
 3.3 V <---> 3.3 V 
 GND <---> GND
