@@ -6,7 +6,7 @@
 
 *I wrote these arduino codes with using universal wireless communication library for Arduino (https://github.com/jgromes/RadioLib).
 
-------------------------------------------------------------------------------------------------------------------------------------------
+
 Pinout Connections
 Lora SX1272 Semtech <---> ESP32s
 3.3 V <---> 3.3 V 
@@ -18,7 +18,7 @@ SCK <---> D18
 MISO <---> D19
 RESET <---> D22
 MOSI <---> D23
------------------------
+
 Lora SX1272 Semtech <---> Arduino
 3.3 V <---> 3.3 V 
 GND <---> GND
